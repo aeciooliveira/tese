@@ -1,2 +1,2 @@
-# tese-oliveira-2016
+# Tese Oliveira (2016)
 Dados de sistemas eletricos de potência utilizados nos testes.
